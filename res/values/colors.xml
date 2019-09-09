@@ -44,6 +44,7 @@
     <color name="message_icon_color">#DADADA</color>
 
     <color name="usage_graph_dots">#B0BEC5</color>
+    <color name="lineage_accent">#167C80</color>
 
     <!-- Gestures settings -->
     <color name="gestures_setting_background_color">#ffffff</color>
